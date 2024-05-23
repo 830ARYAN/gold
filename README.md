@@ -1,2 +1,2 @@
 # gold
-whats doing
+whats doing and learning
